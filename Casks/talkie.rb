@@ -1,6 +1,6 @@
 cask "talkie" do
-  version "2.6.0"
-  sha256 "15cbebf4baf1743e4cc7dbff35173daa88d0c1d6a85f4cc5a34ae7c92c63e966"
+  version "2.6.3"
+  sha256 "c879356e4b7c60ec2afd1a2e9163cb7803ba336a625bdfa5a7eabf499e4983d0"
 
   url "https://github.com/arach/usetalkie.com/releases/download/v#{version}/Talkie.dmg"
   name "Talkie"
